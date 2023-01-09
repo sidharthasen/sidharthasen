@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1 style="text-align:center;color: white;">Taj bengal</h1>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-image: url(IMG/cq5dam.web.1280.1280.jpg)">
+    <img src="img/cq5dam.web.1280.1280.jpg">
+    
+    <form style="background-color:white;">
+        <h1 style="text-align:center;color: white;">Feedback Form</h1>
+                First Name:&nbsp;<input type="text" name="firstname" ><br><br>
+        Last Name:&nbsp;<input type="text" name="lastname" style="color:white;"><br><br>
+        Sex:<br>
+        <input type="radio" name="sex" value="male">Male<br>
+        <input type="radio" name="sex" value="female">Female<br><br>
+        Your address:<br>
+        <textarea row="20" cols="40">
+            
+        </textarea><br>
+        
+        
+        Enter your Feedback Form below.<br>
+        <textarea row="20" cols="40">
+
+        </textarea><br>
+        <input type="submit" name="b1" value="Submit">
+        <input type="reset" name="b2" value="Reset">
+    </form>
+</body>
+</html>
